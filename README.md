@@ -1,4 +1,4 @@
-# PCB_Visual_Testing
+# Missing/DNP component detection
 
 Objective
 To automate the process of Visual testing
